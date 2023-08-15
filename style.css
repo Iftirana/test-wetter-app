@@ -95,3 +95,9 @@ body{
     color: rgb(208, 18, 18);
     display: none;
 }
+
+@media screen and (max-width: 450px) {
+    .search button{
+        border-radius: 20px;
+    }
+}
